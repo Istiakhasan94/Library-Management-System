@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Serif DrawPlus 11, 0, 3, 23 (Feb 25, 14:12:55) (http://www.serif.com) -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="364.417" height="364.417">
+	<defs>
+		<linearGradient id="grad_dp_001" gradientUnits="userSpaceOnUse" x1="-218.571" y1="1042.08" x2="-402.273" y2="730.08">
+			<stop offset="0" stop-color="yellow"/>
+			<stop offset="1" stop-color="lime"/>
+		</linearGradient>
+		<radialGradient id="grad_dp_002" gradientUnits="userSpaceOnUse" cx="-305.829" cy="885.267" r="182.268">
+			<stop offset="0" stop-color="white" stop-opacity="0.247059"/>
+			<stop offset="0.7386" stop-color="#dedede" stop-opacity="0.247059"/>
+			<stop offset="1" stop-color="black" stop-opacity="0.247059"/>
+		</radialGradient>
+		<radialGradient id="grad_dp_003" gradientUnits="userSpaceOnUse" cx="-305.829" cy="885.267" r="182.268">
+			<stop offset="0" stop-color="white" stop-opacity="0.247059"/>
+			<stop offset="0.7386" stop-color="#dedede" stop-opacity="0.247059"/>
+			<stop offset="1" stop-color="black" stop-opacity="0.247059"/>
+		</radialGradient>
+		<radialGradient id="grad_dp_004" gradientUnits="userSpaceOnUse" cx="-307.708" cy="760.957" r="105.028">
+			<stop offset="0" stop-color="white" stop-opacity="0.364706"/>
+			<stop offset="1" stop-color="#d6d6d6" stop-opacity="0.364706"/>
+		</radialGradient>
+	</defs>
+	<g id="selection" transform="matrix(1,0,0,1,490.855,-703.057)">
+		<path id="dp_path001" fill="url(#grad_dp_001)" fill-rule="evenodd" stroke="none" stroke-width="1.33333" d="M -308.647,703.724 C -208.384,703.724 -127.105,785.003 -127.105,885.265 C -127.105,985.528 -208.384,1066.81 -308.647,1066.81 C -408.909,1066.81 -490.188,985.528 -490.188,885.265 C -490.188,785.003 -408.909,703.724 -308.647,703.724 Z "/>
+		<path id="dp_path002" fill="url(#grad_dp_002)" fill-rule="evenodd" stroke="none" stroke-width="1.33333" d="M -308.647,703.724 C -208.384,703.724 -127.105,785.003 -127.105,885.265 C -127.105,985.528 -208.384,1066.81 -308.647,1066.81 C -408.909,1066.81 -490.188,985.528 -490.188,885.265 C -490.188,785.003 -408.909,703.724 -308.647,703.724 Z "/>
+		<g id="dp_group003">
+			<path id="dp_path004" fill="black" fill-rule="evenodd" stroke="black" stroke-width="1.33333" d="M -398.373,941.108 L -398.373,964.849 C -398.373,969.22 -394.831,972.763 -390.46,972.763 L -293.204,972.763 L -293.204,983.315 L -414.964,983.315 C -425.163,983.315 -433.429,975.048 -433.429,964.849 L -433.429,941.108 Z "/>
+			<path id="dp_path005" fill="black" fill-rule="evenodd" stroke="black" stroke-width="1.33333" d="M -218.921,941.108 L -218.921,964.849 C -218.921,969.22 -222.464,972.763 -226.835,972.763 L -324.092,972.763 L -324.092,983.315 L -202.329,983.315 C -192.131,983.315 -183.864,975.048 -183.864,964.849 L -183.864,941.108 Z "/>
+		</g>
+		<path id="dp_path006" fill="black" fill-rule="evenodd" stroke="black" stroke-width="1.33333" d="M -308.647,927.004 L -174.016,843.281 L -254.795,843.281 L -254.795,762.841 L -362.499,762.841 L -362.499,843.281 L -443.277,843.281 Z "/>
+		<path id="dp_path007" fill="url(#grad_dp_003)" fill-rule="evenodd" stroke="none" stroke-width="1.33333" d="M -308.647,703.724 C -208.384,703.724 -127.105,785.003 -127.105,885.265 C -127.105,985.528 -208.384,1066.81 -308.647,1066.81 C -408.909,1066.81 -490.188,985.528 -490.188,885.265 C -490.188,785.003 -408.909,703.724 -308.647,703.724 Z "/>
+		<path id="dp_path008" fill="url(#grad_dp_004)" fill-rule="evenodd" stroke="none" stroke-width="1.33333" d="M -307.708,703.724 C -249.933,703.724 -203.099,729.348 -203.099,760.956 C -203.099,792.564 -249.933,818.188 -307.708,818.188 C -365.483,818.188 -412.317,792.564 -412.317,760.956 C -412.317,729.348 -365.483,703.724 -307.708,703.724 Z "/>
+	</g>
+</svg>
